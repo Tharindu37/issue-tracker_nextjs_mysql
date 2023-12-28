@@ -48,3 +48,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
     npm i prisma
     npx prisma init
+
+    npx prisma format
+    npx prisma migrate dev
