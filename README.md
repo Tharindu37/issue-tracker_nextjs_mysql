@@ -56,3 +56,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # UI
     https://www.radix-ui.com/
+    https://www.npmjs.com/package/react-simplemde-editor
